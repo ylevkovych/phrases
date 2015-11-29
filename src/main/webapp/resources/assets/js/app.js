@@ -1,5 +1,5 @@
 //var base_url = "http://localhost:8080/phrases/";
-var base_url = "http://104.236.69.144:8080/phrases/";
+var base_url = "http://app.thelevkip.com/phrases/";
 
 function PhrasesViewModel() {
     var self = this;
